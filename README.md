@@ -28,7 +28,7 @@
     - Poverty
     - Gun laws
     - [Household Income](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations) 
-    - Mental healt, depression
+    - Mental health, depression
     
     
     
